@@ -59,7 +59,7 @@ internal-mockup/
 ### 1. Clone Project
 
 ```bash
-git clone https://github.com/username/internal-mockup.git
+git clone https://github.com/jojohyperbackend-hub/internal-mockup.git
 cd internal-mockup
 ```
 
